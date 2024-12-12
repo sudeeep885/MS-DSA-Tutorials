@@ -2,7 +2,9 @@
 
 ## Recoding of the session (use smail):
 
-[Tries Lecture by Sri-20241206_213703-Meeting Recording.mp4](https://smailiitmacin.sharepoint.com/:v:/s/MS-DSATalks-group/EfWIRUpagfZFrxvmSSGKeiYBUKsl88Yp9KufEw4i93knDg?e=zcM15a&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Session 1 : [Tries Lecture by Sri-20241206_213703-Meeting Recording.mp4](https://smailiitmacin.sharepoint.com/:v:/s/MS-DSATalks-group/EfWIRUpagfZFrxvmSSGKeiYBUKsl88Yp9KufEw4i93knDg?e=zcM15a&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Session 2 :  [Tries Deletion by Sri-20241210_222220-Meeting Recording.mp4](https://smailiitmacin.sharepoint.com/:v:/s/MS-DSATalks-group/EZk-ulfYSOtLnvLf7Slj9joBw7ABPSyiYQ4mi5Oqx16f3A?e=cF6ssG)
 
 ## All codes are available here:
 
