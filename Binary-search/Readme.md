@@ -1,6 +1,6 @@
 # A Binary Search Tutorial by Sudeep and Rohit
 
-## Recoding of the session (use smail):
+## Recording of the session (use smail):
 
 [Binary-search-tutorial-20241123_225113-Meeting Recording.mp4](https://smailiitmacin.sharepoint.com/:v:/s/MS-DSATalks-group/EYeGotxOul1JstkyQItOoncBmLxhxGzWjiYvrw3Qf-T_Eg?e=cOs15E)
 
